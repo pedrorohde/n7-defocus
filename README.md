@@ -1,2 +1,5 @@
-# n7-defocus
-Image Processing Project: Defocus Map Estimation - 2nd year Electronics Engineering and Signal Processing at INP-ENSEEIHT
+# Defocus Map Estimation
+
+Project based on [Shaojie Zhuo and Terence Sim, Defocus map estimation from a single image](https://www.comp.nus.edu.sg/~tsim/documents/defocusEstimation-published.pdf).
+
+Instructions and comments are in French.
